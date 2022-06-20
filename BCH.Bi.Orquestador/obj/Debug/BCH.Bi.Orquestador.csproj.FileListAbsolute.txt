@@ -1,0 +1,9 @@
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\bin\Debug\BCH.Bi.Orquestador.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\bin\Debug\BCH.Bi.Orquestador.pdb
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\bin\Debug\BCH.Bi.Data.Conexion.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\bin\Debug\BCH.Bi.Data.Conexion.pdb
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\obj\Debug\BCH.Bi.Orquestador.csprojAssemblyReference.cache
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\obj\Debug\BCH.Bi.Orquestador.csproj.CoreCompileInputs.cache
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\obj\Debug\BCH.Bi.Orquestador.csproj.CopyComplete
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\obj\Debug\BCH.Bi.Orquestador.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Orquestador\obj\Debug\BCH.Bi.Orquestador.pdb

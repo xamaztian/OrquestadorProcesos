@@ -1,0 +1,5 @@
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Utils\bin\Debug\BCH.Bi.Utils.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Utils\bin\Debug\BCH.Bi.Utils.pdb
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Utils\obj\Debug\BCH.Bi.Utils.csproj.CoreCompileInputs.cache
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Utils\obj\Debug\BCH.Bi.Utils.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Utils\obj\Debug\BCH.Bi.Utils.pdb

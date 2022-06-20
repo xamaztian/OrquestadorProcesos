@@ -1,0 +1,5 @@
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Data.Conexion\bin\Debug\BCH.Bi.Data.Conexion.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Data.Conexion\bin\Debug\BCH.Bi.Data.Conexion.pdb
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Data.Conexion\obj\Debug\BCH.Bi.Data.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Data.Conexion\obj\Debug\BCH.Bi.Data.Conexion.dll
+C:\Users\sagonzalb\source\repos\AutomatizacionCargaGestiones\BCH.Bi.Data.Conexion\obj\Debug\BCH.Bi.Data.Conexion.pdb
